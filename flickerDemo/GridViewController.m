@@ -68,7 +68,7 @@
     UICollectionViewFlowLayout *layout=[[UICollectionViewFlowLayout alloc] init];
 
     
-    self.thumbnailCollection = [[UICollectionView alloc]initWithFrame:CGRectMake(0, 64, self.view.frame.size.width, self.view.frame.size.height) collectionViewLayout:layout];
+    self.thumbnailCollection = [[UICollectionView alloc]initWithFrame:CGRectMake(0, 64, self.view.frame.size.width, self.view.frame.size.height - 64) collectionViewLayout:layout];
     self.thumbnailCollection.dataSource = self;
     self.thumbnailCollection.delegate = self;
     [self.thumbnailCollection registerClass:[thumbCollectionViewCell class ] forCellWithReuseIdentifier:@"thumbnail"];
