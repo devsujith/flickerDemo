@@ -9,37 +9,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>DACircularProgress.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>IQKeyboardManager.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>MBProgressHUD.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>MWPhotoBrowser-MWPhotoBrowser.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>MWPhotoBrowser.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Reachability.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -57,22 +32,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>18C5C7F26381E287AA5C97E6D678AA1D</key>
+		<key>5ACC3DB00FF3F8B6C856B718F13E72B2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>55DBDD8B7D446F1D618F303A9FB53209</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>5813251FEA21E4AEE97385709F1912DE</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>6B26E22F28CA58A63DDBD7EF3EFB6120</key>
+		<key>5B8BACC337549C32327D0A7DBBF38D74</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -82,22 +47,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>951C361AA1535DDAEB08C01B209DA645</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9775596B3CA16905FC8F66DA8E2A3C67</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>DE3B07ED7FF04F506B0C5E00F4973589</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E2FE87384A67337831E53490EEA8BF11</key>
+		<key>E7E49E2276053ACC3EC0572D449EE812</key>
 		<dict>
 			<key>primary</key>
 			<true/>
